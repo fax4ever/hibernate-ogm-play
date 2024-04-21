@@ -14,7 +14,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class CustomerIT {
+public class CustomerTest {
 
 	@Autowired
 	private CustomerNoSQLRepository repo;
